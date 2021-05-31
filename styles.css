@@ -1,0 +1,33 @@
+
+body{
+    background-color: black;
+}
+
+
+
+.container{
+  background-color:blue;
+
+}
+
+ul li {
+    color:white;
+    display: inline-block;
+    margin: 2rem;
+}
+
+h1{
+    color: Blue;
+    font-size: 10rem;
+   text-align: center;
+   font-weight: bold;
+}
+
+h2{
+    color: blue;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    
+
+}
