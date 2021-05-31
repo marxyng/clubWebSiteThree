@@ -31,3 +31,17 @@ h2{
     
 
 }
+
+#rapper {
+display: block;
+width : 25%;
+margin-left: auto;
+margin-right: auto;
+
+
+}
+
+#bottom{
+    background-color: blue;
+    padding: 1rem;
+}
