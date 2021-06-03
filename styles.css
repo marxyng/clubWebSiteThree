@@ -41,7 +41,33 @@ margin-right: auto;
 
 }
 
+#perform{
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#performance2 {
+    width:25%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#clubDrink {
+    width:50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
 #bottom{
     background-color: blue;
     padding: 1rem;
+}
+
+#aboutMe{
+    text-align: center;
+    color:blue;
+    font-size: 6rem;
 }
